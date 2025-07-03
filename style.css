@@ -1,0 +1,45 @@
+body{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: #2575fc;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    box-sizing: border-box;
+  
+
+}
+
+.container{
+    max-width: 800px;
+    width: 100%;
+    padding: 20px;
+}
+
+h1{
+    font-size: 1.5em;
+    margin-bottom: 100px;
+    color: #f0f0f0;
+}
+h2{
+    font-size: 1.5em;
+    margin-bottom: 40px;
+    color: #e0e0e0;
+}
+.citation-box{
+    background-color: #a060F0;
+    padding: 40px;
+    border-radius: 15px;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+    margin-top: 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
